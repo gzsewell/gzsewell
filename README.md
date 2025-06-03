@@ -20,7 +20,7 @@ Welcome to my GitHub profile! … [short intro/bio]
 ## [Typing SVG Icon]
 Category  |  Skills
 :---      |  :---
-Frontend  | [Badge: HTML] [Badge: CSS] … [Badge: React Router] [Badge: Redux]
+Frontend  | [Badge: ![HTML](https://github.com/github/explore/raw/main/topics/html/html.png)] [Badge: CSS] … [Badge: React Router] [Badge: Redux]
 Backend & Databases  | [Badge: Node.js] [Badge: Express] … [Badge: Stripe] 
 Tools  | [Badge: Postman] [Badge: NPM] [Badge: Git] … 
 Hosting  | [Badge: Glitch] [Badge: Render] [Badge: Netlify] 
