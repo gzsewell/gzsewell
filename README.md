@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile! … [short intro/bio]
+## [Typing SVG Icon]
+![GitHub Streak Widget]
+## [Typing SVG Icon]
+Category  |  Skills
+:---      |  :---
+Frontend  | [Badge: HTML] [Badge: CSS] … [Badge: React Router] [Badge: Redux]
+Backend & Databases  | [Badge: Node.js] [Badge: Express] … [Badge: Stripe] 
+Tools  | [Badge: Postman] [Badge: NPM] [Badge: Git] … 
+Hosting  | [Badge: Glitch] [Badge: Render] [Badge: Netlify] 
+## [Typing SVG Icon]
+* Second Place at Bootcamp: Awarded … [link to project]
+### [Typing SVG Icon]
